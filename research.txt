@@ -1,0 +1,11 @@
+https://www.makerguides.com/ir-receiver-remote-arduino-tutorial/ - breaking the protocol
+https://github.com/Arduino-IRremote/Arduino-IRremote
+https://components101.com/sensors/tsop1838-ir-receiver
+https://datasheet4u.com/datasheet-pdf/ETC/IR1838/pdf.php?id=706293
+https://profeitm.blogspot.com/2017/03/infrarred-ir-led-and-photodiode-with.html - diode info
+https://www.bing.com/search?q=c+shift+rotate&qs=n&form=QBRE&sp=-1&pq=c+shift+rotate&sc=0-14&sk=&cvid=6842FD76ADB745DCA07247C1E31F5DB6
+https://stackoverflow.com/questions/2835469/how-to-perform-rotate-shift-in-c
+https://www.bing.com/search?q=bitwise+mirror&cvid=07760ed2b4584f61bd75256c9808d022&aqs=edge..69i57.3122j0j1&pglt=675&FORM=ANNTA1&DAF0=1&PC=U531
+https://stackoverflow.com/questions/4245936/mirror-bits-of-a-32-bit-word
+https://www.bing.com/search?q=bit+reversal+in+c&cvid=5ee8896398e24211ada15999e70a18e6&aqs=edge.1.69i57j0l4.4281j0j1&pglt=675&FORM=ANNTA1&DAF0=1&PC=U531
+https://www.includehelp.com/c-programs/c-program-to-reverse-bits-of-a-number.aspx
