@@ -17,6 +17,6 @@ C50AF	keystone up
 C906F	keystone down
 
 
-
+All codes are in non-standard MSB notation:
 received power signal (C40BF): 1100 0100 0000 1011 1111
 same signal sent with default settings: 1111 1101 0000 0010 0011 0000 0000 0000 (bit reversal needed)
